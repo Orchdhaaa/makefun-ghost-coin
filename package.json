@@ -1,0 +1,1 @@
+{"description":"MakeFun Ghost (GHOST) — a real coin launched on pump.fun for make.fun's Race to launch a real coin on Solana bounty.","license":"MIT","main":"main.ts","name":"makefun-ghost-coin","scripts":{"verify":"mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts"},"type":"module","version":"1.0.0"}
